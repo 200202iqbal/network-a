@@ -1,0 +1,6 @@
+dalam mode command :
+:2 > untuk loncat ke baris ke 2
+:w > untuk save
+:q > untuk quit
+
+untuk masuk ke insert mode tekan click A
