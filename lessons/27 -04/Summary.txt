@@ -1,0 +1,29 @@
+touch
+
+
+head [option] file's name
+
+option ;
+-n 行
+先頭から指定した行を標準出力する
+
+-c バイト
+先頭から指定したバイト分を標準する
+
+ex:
+$ head -n 10 /etc/pcp.conf
+
+tail 
+
+
+sort
+
+
+uniq
+
+同じ内容の行が連続して続く -> 1つになる/ 行の重複の消去
+
+
+tr
+古文字 
+
