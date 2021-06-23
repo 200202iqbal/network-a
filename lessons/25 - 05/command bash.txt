@@ -1,0 +1,7 @@
+#!/bin/bash >> harus di import di baris pertama, karena bash yang akan mengeksekusi filenya
+perlu dilampirkan file bashnya 
+jikalau ingin mengeksekusi file java , file java yang harus dilampirkan
+
+ls = melihat isi file
+date = menampilkan tanggal
+echo = untuk menampilkan tulisan seperti print di python
