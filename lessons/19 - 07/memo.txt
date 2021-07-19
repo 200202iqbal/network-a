@@ -1,0 +1,16 @@
+command sleep akan membuat terminal akan berhenti sesuai dengan nilai yang dimasukkan
+penambahan & membuat terminal bisa digunakan selama proses 
+sleep sedang berlangsung.
+
+sleep 10 &
+
+ 
+command jobs untuk memeriksa command apa yang sedang berjalan
+di background
+
+untuk membatalkan proses yg sedang berlangsung
+
+command :
+bg %(angka proses)
+fg %(angka proses)
+kill %(angka proses)
